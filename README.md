@@ -24,8 +24,8 @@ body{
 }
 
 .header img{
-    width:120px;
-    height:120px;
+    width:100px;
+    height:100px;
     border-radius:50%;
     margin-right:20px;
 }
